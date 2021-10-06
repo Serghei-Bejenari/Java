@@ -38,8 +38,8 @@ public class Cat implements Eating {    //implementing interface
         System.out.println("Hrum, Hrum");
     }
 
-    //nested class
-    static class NestedClass {
+    //inner class
+    class NestedClass {
         void test() {
         }
     }
